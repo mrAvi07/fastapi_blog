@@ -6,11 +6,14 @@
 <br>
 <h4>Steps to run the project: <h4>
 
-<code>git clone https://github.com/mrAvi07/fastapi_blog.git<code>
-<code>cd <project_name> </code>
-<code>pip install -r requirements.txt</code>
-<code>cd src</code>
-<code>uvicorn main:app --reload</code>
+<h3> git clone https://github.com/mrAvi07/fastapi_blog.git<h3>
+  
+<h3>cd fastapi-blog </h3>
 
+<h3>pip install -r requirements.txt</h3>
 
-<h4>Now visit localhost:8000/docs in your web browser.</h4>
+<h3>cd src</h3>
+
+<h3>uvicorn main:app --reload</h3>
+
+<h3>Now visit <b>localhost:8000/docs</b> in your web browser.</h3>
